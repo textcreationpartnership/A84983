@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The full discovery of the late horrid murther and robbery in Holbourn, being the apprehension, examination, and commitment of John Randal: formerly butler to Esq; Black, where the same was done. : VVith his confession of the fact, and all particular circumstances before Sir William Turner: the finding of forty pounds vvorth of plate in his trunk at his lodging in White-Cross-Street. And hovv he came to be taken at the razor-shop, next door to Esq; Blacks aforesaid house, coming for three razors vvhich he left there the day that he did the murther.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84983</idno>
+            <idno type="STC">Wing F2348</idno>
+            <idno type="STC">ESTC R215320</idno>
+            <idno type="EEBO-CITATION">47683452</idno>
+            <idno type="OCLC">ocm 47683452</idno>
+            <idno type="VID">172912</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84983)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172912)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2655:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The full discovery of the late horrid murther and robbery in Holbourn, being the apprehension, examination, and commitment of John Randal: formerly butler to Esq; Black, where the same was done. : VVith his confession of the fact, and all particular circumstances before Sir William Turner: the finding of forty pounds vvorth of plate in his trunk at his lodging in White-Cross-Street. And hovv he came to be taken at the razor-shop, next door to Esq; Blacks aforesaid house, coming for three razors vvhich he left there the day that he did the murther.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Millet.,</publisher>
+                  <pubPlace>[S.l.]</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The murder of Widow Brown.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Randal, John.</term>
+               <term>Brown, --  widow.</term>
+               <term>Murder --  England --  London --  Early works to 1800.</term>
+               <term>Theft --  England --  London --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172912:1" rendition="simple:additions"/>
+            <p>The Full DISCOVERY Of the Late Horrid Murther and Robbery, IN HOLBOURN, Being the Apprehenſion, Examination, and Commitment of Iohn Randal: Formerly Butler to Eſq; <hi>Bluck,</hi> where the ſame was Done.</p>
+            <p>VVith his Confeſsion of the Fact, and all Particular circumſtances before Sir <hi>William Tu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r:</hi> the finding of Forty pounds vvorth of Plate in his Trunk at his lodging in <hi>White-Croſs-Street.</hi>
+            </p>
+            <p>And hovv he came to be taken at the Razor-Shop, next door to Eſq; <hi>Blucks</hi> aforeſaid hovſe, coming for three Razors vvhich he left there the day that he did the Murther.</p>
+            <p>Printed for <hi>John Millet.</hi> 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172912:2"/>
+            <pb facs="tcp:172912:2"/>
+            <head>The Apprehenſion and Confeſsion <hi>OF Iohn Randal</hi> that Commited the Late Horrid Murther &amp; Robbery In <hi>HO<g ref="char:V">Ʋ</g>LBO<g ref="char:V">Ʋ</g>RN.</hi>
+            </head>
+            <p>WE gave you already as full an account as we could of that horrid Murther committed at the houſe of Eſquire <hi>Bluck,</hi> and though we were then in the Dark altogether, who it might be that ſhould be guilty of that bloody fact, yet ſince the juſtice of Heaven, that rarely permits blood to go un<g ref="char:EOLhyphen"/>revenged even in this world, hath been pleaſ'd to make a full Diſcovery thereof, which we think fit to publiſh begins as follows.</p>
+            <pb n="4" facs="tcp:172912:3"/>
+            <p>One <hi>John Randal</hi> that was formerly Butler to E<g ref="char:EOLhyphen"/>ſquire <hi>Bluck,</hi> and conſequently was well acquainted with all the rooms and places in the houſe, and kuevv that when the Family uſed to go out of Town, they left only this poor honeſt woman the widdow <hi>Burton,</hi> the party murthered to look to the houſe, is found to be the bloody actor of this lamentable Tragedy; he is a perſon of about thirty Years of Age, and was turn<g ref="char:EOLhyphen"/>ed avvay from the Eſquires ſervice, about half a Year ſince, which time he vvas married, and ſince that (as he pretends) has been in <hi>Holland,</hi> or ſome part of the l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vv Countries, but he had not been near his Maſters houſe from the time of his going avvay, till the Day before the Squire vvent forth of Tovvn.</p>
+            <p>So that 'tis probably thoug<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, knovving vvhat time he uſed to go forth vvith his Family, he had before re<g ref="char:EOLhyphen"/>ſolved on the vvicked deſign, and then came vvhen he might have an opportunity, for on Muuday the third inſtant he came to a Neighbours houſe, and pointing to Eſquire <hi>Blucks</hi> houſe, asked vvho Liv<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d at that Houſe, to which the Shop-keeher knovving of him, and vvon<g ref="char:EOLhyphen"/>dring he ſhould ask, told him his Maſter, to vvhich he replyed, he thought he had been gone, but hovvever he then vvent to the Houſe, and drank vvith this good old vvoman, vvhom he ſince murthered, vvho made him ſtay Dinner, and 'tis likely told him her Maſter vvas to go out of Tovvn, the next Day he came again and Drank vvi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h her, and on <hi>Wedn<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſday</hi> brought 3 Razors to be ſet at the Razorſhop next Door, vvhich he left, and vvas ſeen to go into this Houſe, vvhere (as ſince <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pears he did this horrid murther, and ſo went away
+<pb n="5" facs="tcp:172912:3"/> with a conſiderable quantity of Plate undiſcovered, nor was there any likelihood of finding him out: but behold on Friday the ſeventh inſtant about eight or Nine a Clock in the Evening, he came to this ſhop for his Ra<g ref="char:EOLhyphen"/>zars, when a Gentlewoman that has part of the Shop having ſome miſtruſt of him, becauſe he was the laſt ſhe ſaw go into the Houſe before the Murther done, no ſooner ſaw him again but ſhe vvas violently perſvvad<g ref="char:EOLhyphen"/>ed he vvas the murtherer, and therefore running vvhilſt he ſtood in the ſhop to Squire <hi>Black,</hi> vvho vvas then at home, they got a Conſtable, and apprehended him, and carried him before a Juſtice, vvhere he firſt ſtout<g ref="char:EOLhyphen"/>ly denyed the fact, but being asked vvhere his lodging vvas, and anſuering ſuch a place in <hi>White-Croſs-ſtreet,</hi> the ſame vvas order'd to be ſearcht vvhilſt he vvas kept before the Juſtice, vvhere in his Trunk they found plate of the Squires to the value of forty pounds, vvhich vvas brought and ſhevved him, and then he confeſt the fact, declaring that he ſat vvith the poor Woman talk<g ref="char:EOLhyphen"/>ing till night, and that then ſhe telling him it vvas late, and time for him to be gone, he ſtruck her vvith his Fiſt and Killed her, but denyed that he had any more Plate, or any money ſave four four-pence-half-pennies, and one Nine-pence, vvhereupon he vvas committed to <hi>Newgate.</hi>
+            </p>
+            <p>The aforeſaid fifth of <hi>Auguſt,</hi> the Squire being out of Town with all his Servants at his Countrey-houſe, at <hi>Hunſden</hi> in <hi>Hertford-ſhire,</hi> about twenty miles from <hi>London,</hi> having given charge and truſt of his houſe to this antient retainer to his Family of known Fe<g ref="char:EOLhyphen"/>dility, whoſe care and diligence was manifeſted
+<pb n="6" facs="tcp:172912:4"/> to the laſt, ſhe having expreſſed both by the poſture ſhe was found in; the Evening before this Hor<g ref="char:EOLhyphen"/>rid murther, ſhe charg'd the Milk-Woman that ſerv'd the Houſe, that ſhe ſhould call the next Morning, becauſe ſhe ſhould have occaſion for ſome Milk, which accordingly ſhe did; when coming to the Door ſhe found it open, not as it uſed to be, at which being amazed, ſhe firſt knocked at the Door for a conſiderable time, but neither ſeeing any perſon, nor hearing any voice ſhe went in, where to her greater aſtoniſhment ſhe found the body of the aforeſaid Widdow <hi>Brown</hi> lying in the Parlor with her feet over the threſh<g ref="char:EOLhyphen"/>old, with a Coverlid thrown over her, which made the firſt diſcovery of this Horrid Murther and Robbery, upon which coming forth ſtrangely affrighted with this ſad ſpectacle, the Neighbours queſtioning the reaſon of her affrightment, ſhe relating the cauſe, immediately a Conſtable was ſent for, who came as ſpeedily. At which time one of the Eſquires Servants from the Coun<g ref="char:EOLhyphen"/>try, accidentally comming to fetch ſome neceſſaries he was ſent for, who meeting the Conſtable, and ſeeing ſuch a Tumult at the Door was much aſto<g ref="char:EOLhyphen"/>niſht, but hearing what was done, he with the Conſtable was a ſpectator, not onely of that ſad ſpectacle of the Murther of the Houſe-keeper, but alſo went with the Conſtable to obſerve what miſ<g ref="char:EOLhyphen"/>chief was further acted, and upon ſearch found all the Doors and Locks broke open, as aforeſaid: the loſs is no way to be computed without the
+<pb n="7" facs="tcp:172912:4"/> eſtemate of the Eſquire, who onely knows that great loſs he hath ſuſtained; The jealouſies con<g ref="char:EOLhyphen"/>cerning the actors as yet undiſcovered. 'Ttis hop't, time will produce, and Juſtice will reward theſe two great and crying ſins rarely remaining with<g ref="char:EOLhyphen"/>out diſcovery, and vengance following at the heels.</p>
+            <p>'Tis ſtrangely remarkable that this poor Creature ſhould thus horribly lye ſtrangled black in the face, and cold when ſhe was firſt found, with her thread about her neck, wherewith ſhe had been work<g ref="char:EOLhyphen"/>ing: the bloody Actor not content with binding or gaging, which might have been ſecurity ſufficient for his intended deſign of Robbery: but 'tis feared the apprehenſion of his after diſcovery, prompted on that lamentable Butchery; the expedition of which Acts gives a further ſuſpition, it being ſo ſudden, even the very Day after the Eſq; went out of Tovvn, othervviſe 'tis ſuppoſed his cruelty had not extended ſo far.</p>
+            <p>'Tis further obſervable, that ſhe never uſed to let in any into the houſe, but ſuch, whoſe voice ſhe well knew; and the ſtreet-door, nor the look were not broke although after he had broke the other locks, both of room, truncks, &amp;c. were all broke, and all the ſaid place miſerably ranſakt, the richeſt moveables no doubt taken away, all except one plate-dreſſing-box, which was left on a Cupboards head ſtanding openly.</p>
+            <p>The Corronar and Jury found it murther.</p>
+            <pb n="8" facs="tcp:172912:5"/>
+            <p>Remember whatſoever hath been done in the moſt ſecret Cell, ſhall at laſt be diſcovered and proclaim<g ref="char:EOLhyphen"/>ed upon the houſe-top.</p>
+            <p>Oh that all theſe late ſad examples, which ſeve<g ref="char:EOLhyphen"/>ral have ſo lately ſuffered the hand of Divine and Humane Juſtice for, might take that good and everlaſting Rule, given to Iſrael upon this account, might take effect, which was that Iſrael of old, was therefore ſpectators of the hand of Juſtice, that ſo they might ſee Juſtice executed, and hear Sentence paſt, that they might hear and fear, and do no more any ſuch thing, vvhich is the great deſign of the publi<g ref="char:EOLhyphen"/>cation of theſe Relations.</p>
+            <p>And conſidering all the cruel Circumſtances of this moſt bloody Fact, and the clear Evidence againſt this perſon both by the Plate taken in his Cuſtody, and his own Confeſſion, there is ſmall grounds or reaſon left to hope that he can eſcape in this world, without ſa<g ref="char:EOLhyphen"/>tisfying for her Death with his own; though it is to be vviſhed that by ſincere Repentance he may vvaſh his ſoul from the ſtains of blood, and ſo eſcape the ſecond Death and punishment everlaſting.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
